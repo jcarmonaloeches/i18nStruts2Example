@@ -1,0 +1,5 @@
+Este proyecto tiene como finalidad realizar pruebas sobre la internacionalización
+de texto en Struts2.
+Se incluye un tag de fechas y otro de tablas, que son internacionalizados también.
+Permite el cambio de idioma, manteniendo la última petición enviada (para cambiar de pantalla
+con los mismos datos en caso de cambio de idioma).
